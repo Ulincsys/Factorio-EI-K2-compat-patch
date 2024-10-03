@@ -1,0 +1,56 @@
+Version: 1.0.6
+Date: 03.10.2024
+  Updated by Ulincys:
+- Fix matter tech card crafting recipe
+- Remove duplicate sand recipes
+- Fix rocket fuel crafting recipe using K2 oxygen
+- Fix Glass, Iron, and Copper from matter recipes
+
+  Know Bugs:
+- Pistol can't use ammo.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 24.03.2024
+  Bugs Fixes:
+- Fixed silicon processing tech not unlocking
+
+  Know Bugs:
+- Pistol can't use ammo.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 10.03.2024
+  Changes: 
+- EI Lithium crystal recipe is now disabled
+- K2 Lithium now replace the EI Lithium Crystal
+- Merged Hydrogen and ammonia 
+
+  Bugs Fixes:
+- Steam pumpjack and deep pumpjack can no be placed on oil patch
+
+  Know Bugs:
+- Pistol can't use ammo.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 03.03.2024
+  Changes: 
+- Removed K2 steel beam and steel gear instead use EI steel beam and steel mechanical parts
+- changed iron gear to iron mechanical parts
+  Know Bugs:
+- Pistol can't use ammo.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 29.02.2024
+  Changes: 
+- Offshore pump no longer require electicity.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 28.02.2024
+  Changes: 
+- Changed tech order in tech tree.
+  Bugfixes:
+- Fixed a bug where other mod could make the tech tree crash.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 27.02.2024
+  Initial release
+---------------------------------------------------------------------------------------------------
